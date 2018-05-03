@@ -26,7 +26,7 @@ $> mkdir taller
 
 ### 4. Empaquetar la función Lambda
 
-Clonar el repositorio:
+Clonar el repositorio: https://github.com/yujikiriki/terraform-uniandes
 
 Dentro de la carpeta del código clonado, empaquetar con `mvn`.
 
