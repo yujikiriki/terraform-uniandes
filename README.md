@@ -17,7 +17,9 @@ $> mkdir taller
 
 ### 1. Instalar `terraform`.
 
-### 2. Instalar `aws cli`.
+Bajar de https://releases.hashicorp.com/terraform/0.11.7/terraform_0.11.7_linux_amd64.zip
+
+### 2. (Opcional) Instalar `aws cli`.
 
 ### 3. Instalar `mvn`. 
 
